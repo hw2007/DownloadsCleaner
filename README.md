@@ -1,6 +1,6 @@
 # DownloadsCleaner
 A simple tool to clean your downloads folder!
-Just run the Downloads Cleaner.py file using python3/python (filename), or download prebuild a release (currently only prebuild for macos)! 
+Just run the Downloads Cleaner.py file using python3/python (filename), or download prebuild a release from the right side of your screen!
 
 Requirements (not required for prebuild releases):
 - Python 3
